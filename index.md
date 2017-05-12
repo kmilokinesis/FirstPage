@@ -9,11 +9,11 @@ para construir la totalidad de la página.
 Markdown es un estilo de subrayado para el texto. Este incluye además formatos convencionales como
 
 ```markdown
-Encabezados mayores, medianos y bajos.
+Encabezados mayores (de diferente color), encabezados medianos y encabezados bajos.
 
-# Header 1 (Encabezado)
-## Header 2 (Temas)
-### Header 3 (Subtemas)
+# Header 1 
+## Header 2 
+### Header 3
 
 - Listas
 - de viñetas
